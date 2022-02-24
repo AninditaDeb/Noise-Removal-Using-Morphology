@@ -1,1 +1,1 @@
-# Noise-Removal-Using-Morphology
+# NoiseRemovalUsingMorphology && Panaroma formation
